@@ -1,0 +1,111 @@
+"gungame_weapons"
+{
+	"1"
+	{
+		"weapon_walker"	""
+	}
+	"2"
+	{
+		"weapon_peacemaker"	""
+	}
+	"3"
+	{
+		"weapon_shotgun"	""
+	}
+	"4"
+	{
+		"weapon_coachgun"	""
+	}
+	"5"
+	{
+		"weapon_sharps"	""
+	}
+	"6"
+	{
+		"weapon_spencer"	""
+	}
+	"7"
+	{
+		"weapon_henryrifle"	""
+	}
+	"8"
+	{
+		"weapon_maresleg"	""
+	}
+	"9"
+	{
+		"weapon_xbow"	""
+	}
+	"10"
+	{
+		"weapon_sawedoff_shotgun"	""
+	}
+	"11"
+	{
+		"weapon_schofield"	""
+	}
+	"12"
+	{
+		"weapon_remington_army"	""
+	}
+	"13"
+	{
+		"weapon_coltnavy"	""
+	}
+	"14"
+	{
+		"weapon_volcanic"	""
+	}
+	"15"
+	{
+		"weapon_carbine"	""
+	}
+	"16"
+	{
+		"weapon_bow_black"	""
+	}
+	"17"
+	{
+		"weapon_bow"	""
+	}
+	"18"
+	{
+		"weapon_dynamite_black"	""
+	}
+	"19"
+	{
+		"weapon_dynamite"	""
+	}
+	"20"
+	{
+		"weapon_dynamite_belt"	""
+	}
+	"21"
+	{
+		"weapon_hammerless"	""
+	}
+	"22"
+	{
+		"weapon_deringer"	""
+	}
+	"23"
+	{
+		"weapon_machete"	""
+	}
+	"24"
+	{
+		"weapon_axe"	""
+	}
+	"25"
+	{
+		"weapon_knife"	""
+	}
+	"26"
+	{
+		"weapon_fists"	""
+	}
+	"winner"
+	{
+		"weapon_hammerless"	"weapon_hammerless"
+	}
+}
